@@ -1,0 +1,6 @@
+2017-05-28 21:41:23 INFO  Tc001_VerifyLoginWithInvalidCredential:55 - =============Starting verifyLoginWithInvalidCredential Test=============
+2017-05-28 21:42:38 INFO  HomePage:41 -  Click on Signin link from home page and object is Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='un-login']/a'
+2017-05-28 21:42:39 INFO  HomePage:44 -  Entered Email Address:-3anandmonia@gmail.com and object is [[ChromeDriver: chrome on MAC (b85e0b008fb860eb292b031637216f45)] -> id: loginuser]
+2017-05-28 21:42:39 INFO  HomePage:47 -  Entered Password:-Hays@100 and object is [[ChromeDriver: chrome on MAC (b85e0b008fb860eb292b031637216f45)] -> id: loginpass]
+2017-05-28 21:42:47 INFO  HomePage:50 -  Clicked on signin Button and object is [[ChromeDriver: chrome on MAC (b85e0b008fb860eb292b031637216f45)] -> id: loginApp]
+2017-05-28 21:42:47 INFO  Tc001_VerifyLoginWithInvalidCredential:61 - =============Finised verifyLoginWithInvalidCredential Test=============
